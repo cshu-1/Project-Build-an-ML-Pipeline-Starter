@@ -1,7 +1,7 @@
 link to W&B project:
-https://wandb.ai/cshu1-western-governors-university/nyc_airbnb?nw=nwusercshu1.
+https://api.wandb.ai/links/cshu1-western-governors-university/gwys31ic.
 
-I cannot figure out how to make my project public, even creating multiple new accounts, all of the projects are restricted to be public. I can only make a corporate or educational account, and each account has a trial of 29 days left.
+This is a report due to unable to share project in W&B.
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
